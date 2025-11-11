@@ -18,3 +18,7 @@
 - Stream logs from all services to your terminal
 
 
+if you want to clone then do this 
+git clone https://github.com/your-user/car-market-place.git
+cd car-market-place
+docker compose up -d --build
