@@ -27,3 +27,4 @@ docker compose up -d --build
 
 days wise progress
 4th day - after setting the docker today i set up prettier 
+ docker interactive terminal ->docker exec -it backend-service sh
