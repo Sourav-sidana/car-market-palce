@@ -4,7 +4,7 @@ import {DB_NAME} from "../../constant"
 
 
 const connectDB = async()=>{
-    console.log("Loaded MONGODB_URI:", process.env.MONGODB_URL);
+    console.log("Loaded MONGODB_URI:", process.env.MONGODB_URL,DB_NAME);
 
 
     try {
